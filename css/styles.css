@@ -1,0 +1,28 @@
+body{
+    background-color: beige;
+}
+
+#cards__main__container{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+#cards__main__container div{
+    background-color: bisque;
+    margin:30px;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    border-radius:20px;
+}
+
+.tipografiaCarrito{
+    color: black;
+    font-family: "Oswald";
+}
+
+.informacionDeCompra__container{
+    display:flex;
+    
+}
